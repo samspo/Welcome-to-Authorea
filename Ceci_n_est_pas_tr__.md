@@ -1,4 +1,4 @@
-Ceci n'est pas trC(s convivial, et c'est dommage. Pourquoi est-ce que certains mots sont soulignC)s?\cite{Sponem_2016}
+Ceci n'est pas trC(s convivial, et c'est dommage. Pourquoi est-ce que certains mots sont soulignC)s?\cite{Sponem_2016} 
 
 Pas trC(s jolie.
 
