@@ -1,3 +1,9 @@
-Ceci n'est pas très convivial, et c'est dommage. Pourquoi est-ce que certains mots sont soulignés?\cite{Sponem_2016}
+Ceci n'est pas trC(s convivial, et c'est dommage. Pourquoi est-ce que certains mots sont soulignC)s?\cite{Sponem_2016}
 
-Pas très jolie.
+Pas trC(s jolie.
+
+Problème d'accentuation 
+
+Mais plutôt pas mal
+
+Cela semble très efficace
